@@ -1,0 +1,32 @@
+1. What services does your AI automation agency offer?
+   We specialize in building chatbots for various purposes including lead generation, customer service, appointment scheduling, and document-reading bots.
+
+2. What are the benefits of using chatbots for my business?
+   Chatbots streamline communication processes, provide instant responses to customer inquiries, increase efficiency in handling repetitive tasks, enhance customer satisfaction, and ultimately drive business growth.
+
+3. What is included in your free 30-day trial?
+   During the trial period, you'll have access to a fully functional chatbot tailored to your specific needs. This allows you to experience firsthand the capabilities and benefits of our AI solutions.
+
+4. What is the setup fee for implementing a chatbot?
+   For an estimate on setting up a chatbot, please request a free quote at https://devobi.com/quote
+
+5. What are the pricing options for your chatbot services?
+   Our monthly fees start at just $15. For a more accurate quote, please submit the quote request form at https://devobi.com/quote
+
+6. Can I customize the chatbot to fit my specific business needs?
+   Yes, absolutely! We will work closely with you to understand your business requirements and customize the chatbot accordingly, ensuring it aligns perfectly with your brand and objectives.
+
+7. How does appointment scheduling work with your chatbots?
+   Our chatbots are equipped with appointment scheduling capabilities, allowing your customers to book appointments seamlessly through the chat interface. You can define availability, set up reminders, and manage appointments effortlessly.
+
+8. What level of support do you provide to your clients?
+   We offer comprehensive support to our clients, including initial setup assistance, ongoing maintenance, troubleshooting, and regular updates to ensure optimal performance of the chatbots.
+
+9. Can I integrate the chatbot with my existing CRM or other systems?
+   Yes, our chatbots are designed to integrate seamlessly with various third-party platforms, including CRMs, helpdesk software, and other business systems, to streamline operations and enhance productivity.
+
+10. How do I get started with implementing a chatbot for my business?
+    Simply book a free consultation via https://calendly.com/obinnae/ai-consultation, request a quote at https://devobi.com/quote, or email us at info@devobi.com. Our team will guide you through the process, from initial consultation to deployment and beyond, to ensure a smooth and successful integration of our AI solutions into your business operations.
+
+11. Are there any sample chatbots available to review?
+    Yes, you can view some of our sample chatbots at https://devobi.com/portfolio. These can be used as a reference for your own chatbot implementation, and can be customized to fit your specific needs.
